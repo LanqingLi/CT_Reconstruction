@@ -1,3 +1,0 @@
-[submodule "learned_primal_dual"]
-  path =  learned_primal_dual
-  url = git://github.com/adler-j/learned_primal_dual.git
